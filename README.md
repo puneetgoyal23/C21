@@ -1,2 +1,2 @@
-# C21
-creating gameobject
+# collisionAlgorithm
+Algorithm to detect collision between two objects
